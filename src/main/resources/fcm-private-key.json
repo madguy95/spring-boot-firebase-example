@@ -1,0 +1,12 @@
+{
+  "type": "abcd",
+  "project_id": "abcd",
+  "private_key_id": "abcd",
+  "private_key": "abcd",
+  "client_email": "abcd",
+  "client_id": "abcd",
+  "auth_uri": "abcd",
+  "token_uri": "abcd",
+  "auth_provider_x509_cert_url": "abcd",
+  "client_x509_cert_url": "abcd"
+}
