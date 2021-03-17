@@ -11,4 +11,4 @@ Get Config private key for authen service account firebase
   1. Select Service Accounts tab from Project settings pane.
   1. Generate new private key from Admin SDK configuration snippet with java selected
   
-2. Replace file downloaded to fcm-private-key.json in resource folder.
+1. Replace file downloaded to fcm-private-key.json in resource folder.
